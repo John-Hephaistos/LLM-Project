@@ -10,7 +10,7 @@ Copy the url of the repository:
 
 Fetch the repository code on your own device using git:
 
-    git clone <repository-url>
+    git clone https://github.com/John-Hephaistos/LLM-Project.git
 
 Select the folder where your repository is stored in - try "group-16-project":
 
