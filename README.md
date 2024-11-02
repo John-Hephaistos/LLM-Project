@@ -14,7 +14,7 @@ Fetch the repository code on your own device using git:
 
 Select the folder where your repository is stored in - try "group-16-project":
 
-    cd group-16-project
+    cd LLM-Project
 
 Make sure to install the python packages from the requirements.txt file!
 
