@@ -1,0 +1,10 @@
+numpy
+pandas
+tensorflow
+matplotlib
+scipy
+openai
+scikit-learn
+tiktoken
+pycaret
+ast
