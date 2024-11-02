@@ -30,10 +30,10 @@ As a user, all you have to do is:
 
 Quick run-down of each of the files
 
-0. Dataset_Preprocessing: Formats the data, does the train-test-validation split. Creates the json files in the required format for Fine-Tuning. All these should be saved in .csv or .json for further usage and viewing.
-I. Prompt Engineering: This handles the prompt engineering GPT. Its by far the simples model to run. The api key is already inserted, all you mus do is just run the code cell by cell.
-II. Fine-Tuning: This handles the fine-tuned GPT model. If you wish to re-train the model, keep it mind it may take 20-30 minutes. Otherwise, all the model IDs are saved up for instant usage! You will require the json files created from the Dataset_Preprocessing, so do not forget to run those cells!
-III. Embeddings GPT: Serves as a replacement for our lack of PEFT. Warning, the embeddings produced by the model are rather large (139 mb) - given the size of the dataset
+    0. Dataset_Preprocessing: Formats the data, does the train-test-validation split. Creates the json files in the required format for Fine-Tuning. All these should be saved in .csv or .json for further usage and      viewing.
+    I. Prompt Engineering: This handles the prompt engineering GPT. Its by far the simples model to run. The api key is already inserted, all you mus do is just run the code cell by cell.
+    II. Fine-Tuning: This handles the fine-tuned GPT model. If you wish to re-train the model, keep it mind it may take 20-30 minutes. Otherwise, all the model IDs are saved up for instant usage! You will require the json files created from the Dataset_Preprocessing, so do not forget to run those cells!
+    III. Embeddings GPT: Serves as a replacement for our lack of PEFT. Warning, the embeddings produced by the model are rather large (139 mb) - given the size of the dataset
 
 
 Issues and Limitations:
